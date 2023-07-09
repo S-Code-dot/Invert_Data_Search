@@ -1,4 +1,4 @@
-# Invert_Data_Search
+# Inverted_Data_Search
 To store Data with Hash Table Data Structure from .txt file.
 The advantage of using Hash Table to reduce the time complexity to Upload Data,Search Data.
 RealTime Example -> Govt. Id Data Base(Adhar Id, Pan Id).
